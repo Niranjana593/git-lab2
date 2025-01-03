@@ -4,4 +4,4 @@ guru kantil
 
 main()
 #include
-
+int a
